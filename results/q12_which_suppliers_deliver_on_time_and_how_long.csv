@@ -1,0 +1,11 @@
+supplier_name,received_orders,avg_lead_time_days,on_time_pct,max_days_late
+Iota Office Furniture,70,23.1,41.4,12
+Gamma Office Furniture,71,15.4,47.9,12
+Eta Paper Mills,101,10.4,54.5,8
+Kappa Cleaning,97,8.1,57.7,10
+Theta Packaging,98,6.7,62.2,10
+Epsilon Hygiene,101,5.3,73.3,3
+Zeta Breakroom Supplies,102,4.1,78.4,3
+Alpha Paper Supply,103,5.2,79.6,3
+Beta Packaging,98,4.1,89.8,2
+Delta IT Accessories,100,2.9,94.0,1

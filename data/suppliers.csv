@@ -1,0 +1,11 @@
+supplier_id,supplier_name,country,city,main_category,payment_terms_days
+1,Alpha Paper Supply,Germany,Düren,Paper & Printing,30
+2,Eta Paper Mills,Poland,Poznań,Paper & Printing,60
+3,Beta Packaging,Germany,Bielefeld,Packaging,30
+4,Theta Packaging,Netherlands,Venlo,Packaging,45
+5,Gamma Office Furniture,Germany,Stuttgart,Office Furniture,30
+6,Iota Office Furniture,Czechia,Brno,Office Furniture,60
+7,Delta IT Accessories,Germany,Frankfurt am Main,IT Accessories,14
+8,Epsilon Hygiene,Germany,Hannover,Cleaning & Hygiene,30
+9,Kappa Cleaning,Austria,Linz,Cleaning & Hygiene,45
+10,Zeta Breakroom Supplies,Germany,Bremen,Breakroom,30

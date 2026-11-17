@@ -1,0 +1,20 @@
+warehouse_name,sku,product_name,supplier_name,on_hand_qty,reorder_point,suggested_order_qty,order_value_eur
+WH Duisburg,SKU-0034,Paper Towels Z-fold (3000),Kappa Cleaning,3,24,63,1205.82
+WH Duisburg,SKU-0032,Disinfectant Spray (12),Kappa Cleaning,11,15,31,990.14
+WH Duisburg,SKU-0025,Milk Portions (240),Zeta Breakroom Supplies,8,15,43,749.49
+WH Duisburg,SKU-0050,Docking Station USB-C,Delta IT Accessories,0,2,7,688.38
+WH Duisburg,SKU-0042,Keyboard USB,Delta IT Accessories,0,7,25,575.75
+WH Hamburg,SKU-0031,Hand Soap 5 L,Epsilon Hygiene,68,91,215,2051.10
+WH Hamburg,SKU-0013,Shipping Box L (20-pack),Beta Packaging,28,40,105,1946.70
+WH Hamburg,SKU-0006,Inkjet Cartridge Black,Eta Paper Mills,7,34,78,1398.54
+WH Hamburg,SKU-0032,Disinfectant Spray (12),Kappa Cleaning,6,15,36,1149.84
+WH Hamburg,SKU-0026,Sugar Sticks (1000),Zeta Breakroom Supplies,11,13,32,378.56
+WH Hamburg,SKU-0035,Bin Bags 120 L (250),Epsilon Hygiene,0,4,13,273.78
+WH Nuremberg,SKU-0013,Shipping Box L (20-pack),Beta Packaging,32,40,101,1872.54
+WH Nuremberg,SKU-0010,Notebooks A5 (10-pack),Eta Paper Mills,2,20,48,687.84
+WH Nuremberg,SKU-0050,Docking Station USB-C,Delta IT Accessories,1,2,6,590.04
+WH Nuremberg,SKU-0060,Shelf Unit,Iota Office Furniture,2,4,7,523.74
+WH Nuremberg,SKU-0024,Paper Cups (1000),Zeta Breakroom Supplies,3,6,18,502.74
+WH Nuremberg,SKU-0026,Sugar Sticks (1000),Zeta Breakroom Supplies,8,13,35,414.05
+WH Nuremberg,SKU-0017,Pallet Labels (500),Beta Packaging,14,15,37,378.51
+WH Nuremberg,SKU-0056,Monitor Arm,Iota Office Furniture,2,4,7,361.34

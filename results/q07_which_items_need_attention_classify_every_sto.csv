@@ -1,0 +1,5 @@
+stock_status,items
+1 Out of stock,3
+2 Below reorder point,16
+3 OK,139
+4 Overstock,22
